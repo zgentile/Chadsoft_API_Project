@@ -3,8 +3,6 @@ from path_manipulations import extract_path
 from path_manipulations import adjust_path
 
 base = "http://tt.chadsoft.co.uk"
-working_url = "http://tt.chadsoft.co.uk/leaderboard/19/8C4EEED505F0862CBB490A0AC0BD334515895710/00.json"
-broken_url = base + "/leaderboard/0D/CD19D287B6578A396C8A4EC77ACF0C633B5C75A8/01.json"
 
 ''' This function takes in the url to a specific track's leaderboard and returns the api path to the rkg
 file for the track's bkt as well as a trimmed version of that path so the rkg file can be named appropriately
