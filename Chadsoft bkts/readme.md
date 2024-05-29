@@ -18,8 +18,7 @@ the only thing that gave me trouble was leaderboards that had one ghost. I made 
 but I expect that even that will probably fail in future cases if there is something else also different about
 that leaderboard. Also, I haven't looked into this all that much, but perhaps html scraping with something like
 beautiful soup would be a better approach. I did this project as a way to get experience using apis, requests, and os.
-I think something in the direction of AI or NLP will work better but that is a more advanced approach that I would probably
-need to put much more time into than I put into this.
+I think something in the direction of AI or NLP will work better but that is a more advanced approach that I would probably need to put much more time into than I put into this.
 
 Also, perhaps most importantly, I want this to be something that people can easily use. Obviously,
 now it only works with python in a terminal, and I would imagine that most are not familiar with this.
@@ -27,13 +26,9 @@ I know there are loads of ways to do this, I need to learn how.
 
 Another thing I am curious about is cloning the structure of the ctgp ghosts folder into the the ghosts folder
 here so that ghosts go in the correct folder. Perhaps it would be nice to also find a way to name the files in the same
-exact way that chadsoft does. I don't think this would be too hard but I also don't think it matters. Anyway, in order to accomplish
-getting all of the ghosts from this into their proper folders, I would need to make a tool that goes into the rkg files and finds whatever
-information that the game/ctgp finds to designate it to a track. Not only would this help this tool, but it would also help
-downloads from the chadsoft website as well, as those ghosts are not sent to any folders.
+exact way that chadsoft does. I don't think this would be too hard but I also don't think it matters. Anyway, in order to accomplish getting all of the ghosts from this into their proper folders, I would need to make a tool that goes into the rkg files and finds whatever information that the game/ctgp finds to designate it to a track. Not only would this help this tool, but it would also help downloads from the chadsoft website as well, as those ghosts are not sent to any folders.
 
-Yeah, I didn't make any tests, I just kinda used lots of trial and error and checked that everything worked. 
-It seems to work, but in the final product I will have tests.
+Yeah, I didn't make any tests, I just kinda used lots of trial and error and checked that everything worked. It seems to work, but in the final product I will have tests.
 
 I can't tell if it's because of this or not, but I think the ghosts may have slowed down the time it takes to load
 a given track's ghosts in the game, by a lot. This is just suspicion though.
